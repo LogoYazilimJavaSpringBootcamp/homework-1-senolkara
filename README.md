@@ -1,3 +1,5 @@
+# _Cevaplar hmwrk1 branch içerisinde bulunmaktadır._
+
 # Homework-1
 
 1. Java’nın platform bağımsızlığını nasıl sağladığını anlatınız.(5 PUAN)
