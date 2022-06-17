@@ -1,8 +1,4 @@
-# _Cevaplar hmwrk1 branch içerisinde bulunmaktadır._
-
----
-
-### Homework-1
+# Homework-1
 
 1. Java’nın platform bağımsızlığını nasıl sağladığını anlatınız.(5 PUAN)
 2. Java neden çoklu kalıtımı desteklemez? Hangi diller bu duruma neden izin verir? (5 PUAN)
